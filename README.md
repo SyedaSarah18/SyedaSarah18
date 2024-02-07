@@ -1,7 +1,4 @@
-https://github.com/SyedaSarah18/SyedaSarah18/assets/54178904/0cfc4928-400f-4b06-aa16-a4dd7a0b1862
-
-Sarah! 👋
-
+![ezgif com-crop](https://github.com/SyedaSarah18/SyedaSarah18/assets/54178904/9352f6e7-9839-43fb-82b4-109fc678851a)
 <!--
 **SyedaSarah18/SyedaSarah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
