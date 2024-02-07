@@ -1,4 +1,5 @@
 <img align="left" width="47%" src="https://github.com/SyedaSarah18/SyedaSarah18/assets/54178904/9352f6e7-9839-43fb-82b4-109fc678851a" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact" />
 <!--
 **SyedaSarah18/SyedaSarah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact" />
+
