@@ -1,7 +1,7 @@
 
 ![ezgif com-crop](https://github.com/SyedaSarah18/SyedaSarah18/assets/54178904/cac7a2d0-25a2-4b8e-a726-2b31b9a48b92)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact)
 
 
 <!--
