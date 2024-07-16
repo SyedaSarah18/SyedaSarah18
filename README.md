@@ -1,5 +1,6 @@
 
-![Assets-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9b2ccb4f-607c-4419-859b-35d0a5262980)
+![Assets-ezgif com-resize](https://github.com/user-attachments/assets/af52d355-c963-481e-b20f-07b87a58c2ea)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact)
 
