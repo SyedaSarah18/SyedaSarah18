@@ -1,6 +1,5 @@
 
-![Assets-ezgif com-resize](https://github.com/user-attachments/assets/af52d355-c963-481e-b20f-07b87a58c2ea)
-
+![Assets-ezgif com-resize](https://github.com/user-attachments/assets/1154ad37-7852-4104-80fe-32fdc1ba43c4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact)
 
