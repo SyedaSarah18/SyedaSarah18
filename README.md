@@ -1,6 +1,6 @@
+![Intro](https://github.com/user-attachments/assets/831c9402-08c5-4747-a590-68db28b45467)
 
-<!![Intro](https://github.com/user-attachments/assets/4846ea21-1d48-4c50-bd63-b05862b3deda)
---
+<--
 **SyedaSarah18/SyedaSarah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
