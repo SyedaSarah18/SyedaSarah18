@@ -1,8 +1,6 @@
 
-![Assets-ezgif com-resize](https://github.com/user-attachments/assets/1154ad37-7852-4104-80fe-32fdc1ba43c4)
-
-
-<!--
+<!![Intro](https://github.com/user-attachments/assets/4846ea21-1d48-4c50-bd63-b05862b3deda)
+--
 **SyedaSarah18/SyedaSarah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
