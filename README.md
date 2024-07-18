@@ -1,8 +1,6 @@
 
 ![Assets-ezgif com-resize](https://github.com/user-attachments/assets/1154ad37-7852-4104-80fe-32fdc1ba43c4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaSarah18&layout=compact)
-
 
 <!--
 **SyedaSarah18/SyedaSarah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
