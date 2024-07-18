@@ -1,3 +1,1 @@
-![Intro](https://github.com/user-attachments/assets/831c9402-08c5-4747-a590-68db28b45467)
-
-
+![Intro](https://github.com/user-attachments/assets/5a6941a6-ccb6-4cf1-93cc-823cbc8316be)
